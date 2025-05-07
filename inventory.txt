@@ -1,0 +1,17 @@
+Book, B003, 1984, George Orwell, 1949, 9780451524935, Dystopian
+DVD, A day in the life of a coder, A day in the life of a coder, Me, 2025, 43223, R
+Book, B007, Fahrenheit 451, Ray Bradbury, 1953, 9781451673319, Dystopian
+DVD, D006, Forrest Gump, Robert Zemeckis, 1994, 142, PG-13
+DVD, D001, Inception, Christopher Nolan, 2010, 148, PG-13
+Book, B005, Moby Dick, Herman Melville, 1851, 9781503280786, Adventure
+Magazine, M001, National Geographic, Various, 2025, 12, March
+Magazine, M007, People, Various, 2025, 22, February
+Magazine, M006, Scientific American, Various, 2025, 6, January
+Magazine, M005, The Economist, Various, 2024, 20, July
+DVD, D003, The Godfather, Francis Ford Coppola, 1972, 175, R
+Book, B001, The Great Gatsby, F. Scott Fitzgerald, 1925, 9780743273565, Fiction
+Book, B006, The Hobbit, J.R.R. Tolkien, 1937, 9780547928227, Fantasy
+DVD, D002, The Matrix, Lana Wachowski, 1999, 136, R
+Magazine, M002, TIME, Various, 2025, 15, April
+Book, B009, A Bug's Life, Ava McDonald, 2005, q32895u10495, Horror
+Book, b009, a bugs life, ava mcdonald, 2005, horror, 0	3u5	80
